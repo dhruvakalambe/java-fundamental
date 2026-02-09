@@ -1,4 +1,4 @@
-package basic.loops;
+package basic.operatorandcontrolflow;
 import java.util.*;
 public class ifel {
     public static void main(String[] args) {
