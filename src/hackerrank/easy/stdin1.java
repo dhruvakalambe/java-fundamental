@@ -1,2 +1,14 @@
-package hackerrank.easy;public class stdin1 {
+package hackerrank.easy;
+import java.util.*;
+
+public class stdin1 {
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+        int a = scan.nextInt();
+        System.out.println(a);
+        int b = scan.nextInt();
+        System.out.println(b);
+        int c = scan.nextInt();
+        System.out.println(c);
+    }
 }
