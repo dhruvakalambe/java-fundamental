@@ -1,2 +1,8 @@
-package basic.array;public class bashik {
+package basic.array;
+
+public class bashik {
+    public static void main(String[] args) {
+        int arr[] = {10,20,30};
+        System.out.println(arr);
+    }
 }
